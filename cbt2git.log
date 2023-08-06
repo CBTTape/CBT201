@@ -1,0 +1,13 @@
+2023-08-06 02:10:53.554098 - Initialized conversion of CBT201
+2023-08-06 02:10:53.637152 - Received CBT.V505.FILE201.PDS from FILE201.XMI 
+2023-08-06 02:10:53.639697 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE201.PDS, moved to PDS/$$$#DATE
+2023-08-06 02:10:53.640775 - Found $COVER.txt (text/plain) in CBT.V505.FILE201.PDS, moved to PDS/$COVER
+2023-08-06 02:10:53.641765 - Found $DOC.txt (text/plain) in CBT.V505.FILE201.PDS, moved to PDS/$DOC
+2023-08-06 02:10:53.642712 - Found @FILE201.txt (text/plain) in CBT.V505.FILE201.PDS, moved to PDS/@FILE201
+2023-08-06 02:10:53.643631 - Found ASMJCL.jcl (text/plain) in CBT.V505.FILE201.PDS, moved to PDS/ASMJCL
+2023-08-06 02:10:53.644675 - Found IKJCT44B.txt (text/plain) in CBT.V505.FILE201.PDS, moved to PDS/IKJCT44B
+2023-08-06 02:10:53.644686 - Found OBJCT44B.bin containing application/octet-stream, moved to PDS/OBJCT44B
+2023-08-06 02:10:53.646564 - Found SESSION.txt (text/plain) in CBT.V505.FILE201.PDS, moved to PDS/SESSION
+2023-08-06 02:10:53.647484 - Found SYSTEM.txt (text/plain) in CBT.V505.FILE201.PDS, moved to PDS/SYSTEM
+2023-08-06 02:10:53.647492 - Found TS40084.bin containing application/octet-stream, moved to PDS/TS40084
+2023-08-06 02:10:53.649268 - Found VARIABLE.txt (text/plain) in CBT.V505.FILE201.PDS, moved to PDS/VARIABLE
